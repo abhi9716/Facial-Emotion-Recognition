@@ -37,7 +37,7 @@ The video processing pipeline was built the following way :
 
 #### Model
 
-The model I have chosen is an XCeption model, since it outperformed the other models. I tuned the model with :
+The model I have chosen is an XCeption model, since it outperformed the other models (62.3% validation accuracy). I tuned the model with :
 - data augmentation
 - early stopping
 - Class weight balancing
